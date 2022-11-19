@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Github Viewer"
 include(":app",":domain")
+include(":data")
